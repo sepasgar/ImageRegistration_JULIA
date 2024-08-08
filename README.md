@@ -5,4 +5,4 @@ The evolution of the corrected image in different levels of the Gaussian pyramid
 <p align="center">
   <img src="https://github.com/user-attachments/assets/677873f8-0ffc-460a-9f74-2d1f7d9d1fd2"/>
 </p>
-Image courtesy of: '511KeV, https://commons.wikimedia.org/wiki/File:Mri_Brain_Flair_Axial_(12).jpg'
+Reference image courtesy of: '511KeV, https://commons.wikimedia.org/wiki/File:Mri_Brain_Flair_Axial_(12).jpg'
